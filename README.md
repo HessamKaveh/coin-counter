@@ -1,0 +1,57 @@
+# Coin Counter using OpenCV
+
+A computer vision project for automatic coin detection and counting using OpenCV.
+
+The system detects circular objects from an input image and counts the number of coins.
+
+
+## Features
+
+- Image preprocessing
+- Grayscale conversion
+- Gaussian blur
+- Thresholding
+- Contour detection
+- Circularity-based filtering
+- Automatic coin counting
+
+
+## Pipeline
+
+
+Input Image
+
+↓
+
+Grayscale
+
+↓
+
+Gaussian Blur
+
+↓
+
+Thresholding
+
+↓
+
+Contour Detection
+
+↓
+
+Circle Filtering
+
+↓
+
+Coin Count
+
+
+
+## Installation
+
+
+Clone repository:
+
+
+```bash
+git clone https://github.com/HessamKaveh/coin-counter.git
