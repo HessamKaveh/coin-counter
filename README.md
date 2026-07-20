@@ -52,6 +52,32 @@ Coin Count
 
 Clone repository:
 
-
 ```bash
 git clone https://github.com/HessamKaveh/coin-counter.git
+
+```
+
+Create virtual environment
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+Install requirements:
+
+pip install -r requirements.txt
+
+## Usage
+
+Put your image here:
+
+images/input/coins.jpg
+
+## Run
+
+cd src
+
+python main.py
+
+
+
