@@ -73,11 +73,19 @@ Put your image here:
 
 images/input/coins.jpg
 
+## Author
+Hessam Kaveh — Research Fellow, Italian Institute of Technology
+
+
+
+
 ## Run
 
 cd src
 
 python main.py
+
+
 
 
 
